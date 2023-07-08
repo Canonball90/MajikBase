@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.canon.majik.api.mixin.impl",
+  "refmap": "mixins.majik.refmap.json",
+  "mixins": [
+    "MixinMinecraft",
+    "MixinNetworkManager"
+  ]
+}
