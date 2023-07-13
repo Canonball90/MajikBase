@@ -1,5 +1,6 @@
 # Majik Base
 a forge 1.12.2 base client for you skidders.
+Contact : canonball90
 
 ## Features
 - Clickgui
